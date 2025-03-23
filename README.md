@@ -1,5 +1,7 @@
 # Project Scivar : Deep learning algorithms for single-cell RNA-seq data clustering
 
+If you want to know more about these project and the results, I invite you to read the corresponding paper ```BERTHET_Théo_rapport_de_stage.pdf```
+
 ## Introduction
 
 Single-cell sequencing data (scRNA-seq) is a technology for profiling gene expression on a single-cell scale.
@@ -117,4 +119,4 @@ Contains bunch of notebooks not really clean use for experiments or draft
 Folder created to run the original implementation of scDeepCluster
 
 ## Results
-If you want to know more about these project and the results, I invite you to read the correspondind paper ```BERTHET_Théo_rapport_de_stage.pdf```
+If you want to know more about these project and the results, I invite you to read the corresponding paper ```BERTHET_Théo_rapport_de_stage.pdf```

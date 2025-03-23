@@ -33,6 +33,9 @@ unsupervised learning method, as labels are not used in the calculation of the
 of the loss function.
 
 ![Figure 1: Autoencoder structure example ](./pictures/autoencoder.png)
+**Figure 1: Autoencoder structure example** 
+
+
 
 Various methods using AEs for clustering scRNA-seq data have already been implemented.
 DCA (Deep Count Autoencoder) uses an auto-encoder by
@@ -64,8 +67,11 @@ the Leiden algorithm for cluster initialization, with high resolution to obtain 
 during training.
 
 ![Figure 2: Architecture of scDeepCluster method ](./pictures/scdeepcluster_(1).png)
+**Figure 2: Architecture of scDeepCluster method**
+
 
 ![Figure 3: Architecture of ConstrastiveSC method ](./pictures/contrastivesc.png)
+**Figure 3: Architecture of ConstrastiveSC method**
 
 Thus, the project consists in studying some of these advances, in particular scDeepCluster,
 a method with clustering combined with auto-encoder training, and Contrastive-sc,
@@ -74,7 +80,7 @@ evaluate the relevance of these deep learning methods in relation to traditional
 methods, in particular by comparing them with PCA. 
 
 ![Figure 4: Workflow schema ](./pictures/workflow_(3).png)
-
+**Figure 4: Workflow schema**
 
 ## Project structure
 The project **Scivar** contains :

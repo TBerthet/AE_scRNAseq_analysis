@@ -63,7 +63,7 @@ The scziDesk method proposes the addition of a third loss function, enabling clu
 the Leiden algorithm for cluster initialization, with high resolution to obtain a large number of clusters, while favoring their purity so that certain clusters will be merged
 during training.
 
-![Figure 2: Architecture of scDeepCluster method ](./pictures/scdeepcluster (1).png)
+![Figure 2: Architecture of scDeepCluster method ](./pictures/scdeepcluster_(1).png)
 
 ![Figure 3: Architecture of ConstrastiveSC method ](./pictures/contrastivesc.png)
 
@@ -73,7 +73,7 @@ a method involving clustering a posteriori to training, but also to
 evaluate the relevance of these deep learning methods in relation to traditional
 methods, in particular by comparing them with PCA. 
 
-![Figure 4: Workflow schema ](./pictures/workflow (3).png)
+![Figure 4: Workflow schema ](./pictures/workflow_(3).png)
 
 
 ## Project structure

@@ -25,7 +25,7 @@ Folder where are saved model weights
 ### other_notebooks folder
 Contains bunch of notebooks not really clean use for experiments or draft
 
-## scDeepCluster folder
+### scDeepCluster folder
 Folder created to run the original implementation of scDeepCluster
 
 

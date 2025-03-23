@@ -32,7 +32,7 @@ non-linearly reduced space using an encoder, and then reconstructing the input d
 unsupervised learning method, as labels are not used in the calculation of the
 of the loss function.
 
-![Figure 1: Autoencoder structure example ](./pictures/arch.png)
+![Figure 1: Autoencoder structure example ](./pictures/autoencoder.png)
 
 Various methods using AEs for clustering scRNA-seq data have already been implemented.
 DCA (Deep Count Autoencoder) uses an auto-encoder by
@@ -98,4 +98,4 @@ Folder created to run the original implementation of scDeepCluster
 
 ## Results
 If you want to know more about these project and the results, I invite you to read the correspondind paper 
-$ BERTHET_Théo_rapport_de_stage.pdf
+```$ BERTHET_Théo_rapport_de_stage.pdf```

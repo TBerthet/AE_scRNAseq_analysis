@@ -63,12 +63,18 @@ The scziDesk method proposes the addition of a third loss function, enabling clu
 the Leiden algorithm for cluster initialization, with high resolution to obtain a large number of clusters, while favoring their purity so that certain clusters will be merged
 during training.
 
+![Figure 2: Architecture of scDeepCluster method ](./pictures/scdeepcluster (1).png)
+
+![Figure 3: Architecture of ConstrastiveSC method ](./pictures/contrastivesc.png)
 
 Thus, the project consists in studying some of these advances, in particular scDeepCluster,
 a method with clustering combined with auto-encoder training, and Contrastive-sc,
 a method involving clustering a posteriori to training, but also to
 evaluate the relevance of these deep learning methods in relation to traditional
 methods, in particular by comparing them with PCA. 
+
+![Figure 4: Workflow schema ](./pictures/workflow (3).png)
+
 
 ## Project structure
 The project **Scivar** contains :
@@ -97,5 +103,4 @@ Contains bunch of notebooks not really clean use for experiments or draft
 Folder created to run the original implementation of scDeepCluster
 
 ## Results
-If you want to know more about these project and the results, I invite you to read the correspondind paper 
-```$ BERTHET_Théo_rapport_de_stage.pdf```
+If you want to know more about these project and the results, I invite you to read the correspondind paper ```BERTHET_Théo_rapport_de_stage.pdf```

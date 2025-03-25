@@ -1,6 +1,6 @@
 # Project Scivar : Deep learning algorithms for single-cell RNA-seq data clustering
 
-If you want to know more about these project and the results, I invite you to read the corresponding paper ```BERTHET_Théo_rapport_de_stage.pdf```
+If you want to know more about these project and the results, I invite you to read the corresponding paper (in French only) ```BERTHET_Théo_rapport_de_stage.pdf```
 
 ## Introduction
 
@@ -119,4 +119,11 @@ Contains bunch of notebooks not really clean use for experiments or draft
 Folder created to run the original implementation of scDeepCluster
 
 ## Results
+
+![Figure 5: Clusters Plot ](./pictures/clusters.png)
+
+
+**Figure 5 : Plots of average scores for the three methods (over 5 runs) and representations with a UMAP projection of the data from the reduced space with the three methods with ground truth (top line) and the clusters obtained (bottom line).** 
+
+
 If you want to know more about these project and the results, I invite you to read the corresponding paper ```BERTHET_Théo_rapport_de_stage.pdf```
